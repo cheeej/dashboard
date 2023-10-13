@@ -40,6 +40,7 @@ const GlobalStyles = createGlobalStyle`
         --font-small: 0.8rem
         --max-width: 1200px;
         --header-height: 60px;
+        --primary-green: #2b3625
     }
     
     // body {
